@@ -1,6 +1,8 @@
-# 제주 충전 예보: 기상 예보로 내다보는 제주 전력 수급과 전기차 충전일 추천
+# 남는 재생에너지를 충전으로: AI 기상 예보 기반 제주 전기차 충전 할인일 제안
 
-**Weather Forecast-Based Supply-Demand Prediction and EV Charging-Day Recommendation for Jeju**
+**Turning Surplus Renewables into EV Charging: AI Weather Forecast-Based Discount Days for Jeju**
+
+서비스 이름: 제주 충전 예보
 
 AI융합콜로퀴움 연계 지역문제해결 경진대회 (글로벌 넷제로 분야)
 
