@@ -1,0 +1,8 @@
+pandas==2.3.3
+numpy==2.0.2
+scikit-learn==1.6.1
+holidays==0.83
+matplotlib==3.9.4
+scipy
+openpyxl
+python-pptx
